@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1f6ce4e-1dd6-4fe5-a2f9-5034021ea539" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Main_Menu/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main_Menu/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main_Menu/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Newsletter/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Newsletter/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Newsletter/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Newsletter/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Newsletter/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Newsletter/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Newsletter/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Newsletter/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Post_comment/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Post_comment/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Post_comment/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Post_comment/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Post_comment/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Post_comment/permissions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Post_comment/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Post_comment/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Post_comment/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Post_comment/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_login_app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_login_app/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_login_app/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_login_app/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_login_app/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_login_app/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_login_app/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_login_app/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comment_login_app/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Blog_Dev.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userreg/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main_Menu/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userreg/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main_Menu/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userreg/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main_Menu/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userreg/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main_Menu/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userreg/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Newsletter/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userreg/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main_Menu/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userreg/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main_Menu/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="22XZrgODG5aiJIiG2XIPfo73WvQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\django-projects\blogsite\blogsite" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1f6ce4e-1dd6-4fe5-a2f9-5034021ea539" name="Changes" comment="" />
+      <created>1639986095505</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639986095505</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
